@@ -225,7 +225,7 @@ h2{
 }
 
 
-@media (max-width: 770px){
+@media (max-width: 480px){
     .header .header-flex, .footer .footer-flex, .services .services-flex, .team .team-flex{
         display: flex;
         flex-direction: column;

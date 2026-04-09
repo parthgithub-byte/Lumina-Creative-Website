@@ -48,11 +48,11 @@ To run this project locally, you don't need any complex build tools or package m
 👨‍💻 Author
 Parth Pakhare
 
-GitHub: @parthgithub-byte
+GitHub: [@parthgithub-byte](https://github.com/parthgithub-byte)
 
-LinkedIn: [URL](https://www.linkedin.com/in/parth-p-987933289)
+LinkedIn: [@parth-p-987933289](https://www.linkedin.com/in/parth-p-987933289)
 <img width="1348" height="768" alt="image" src="https://github.com/user-attachments/assets/f0109709-629f-4d25-866d-eda9e7bfcc6f" />
+---
 <img width="1354" height="768" alt="image" src="https://github.com/user-attachments/assets/38612b8a-62f1-4c7e-a8d6-69627e4c6a89" />
+---
 <img width="1345" height="768" alt="image" src="https://github.com/user-attachments/assets/bda69ba2-bca6-4698-88e7-614617837835" />
-
-

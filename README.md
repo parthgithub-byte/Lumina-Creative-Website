@@ -55,7 +55,7 @@ LinkedIn: [@parth-p-987933289](https://www.linkedin.com/in/parth-p-987933289)
 
 ---
 
-## Few Glimpses Of My Simplistic Image Gallery 📷
+## 📷 Few Glimpses Of My Simplistic Image Gallery
 <img width="1348" height="768" alt="image" src="https://github.com/user-attachments/assets/f0109709-629f-4d25-866d-eda9e7bfcc6f" />
 
 ---
